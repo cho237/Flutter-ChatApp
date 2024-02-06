@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "677340500402",
+    "firebase_url": "https://flutter-shopping-list-7f794-default-rtdb.firebaseio.com",
+    "project_id": "flutter-shopping-list-7f794",
+    "storage_bucket": "flutter-shopping-list-7f794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677340500402:android:19f3f48541a22ee92d94ab",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDmxhRNOuoPxrGULR1yh-pg_wNtPSvAu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
